@@ -63,6 +63,8 @@ ul li{
 
 .menu a:hover{
     color: #FF4668;
+    border-bottom: #FF4668 solid 5px;
+    border-radius: 2px;
 }
 
 .search{
